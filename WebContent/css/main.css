@@ -1,0 +1,50 @@
+#top{
+	text-align: center;
+}
+#Navbar{
+	text-align: center;
+	
+}
+#Navbar a{
+	border: none;
+}
+#Student{
+	border: 1px solid #bbb;
+    background-color: #eee;
+    border-radius: 10px;
+    flex: 5;
+    border-radius: 30px;
+    width: 90%;
+    height: 550px;
+}
+#Student_add{
+	float: right;
+	margin-right: 10%;
+	margin-top: 2%;
+}
+#Student_search{
+	float: left;
+	margin-left: 15%;
+	margin-top: 2%;
+}
+#Student_title{
+	float: left;
+	margin-left: 10%;
+	margin-top: 0.5%;
+}
+#hr{
+	border: 1px solid #bbb;
+	width: 100%;
+	float: left;
+	margin-top: 1%;
+}
+#Student_table{
+	font-size: 15px;
+}
+#Student_table{
+	width:100%;
+}
+
+
+
+
